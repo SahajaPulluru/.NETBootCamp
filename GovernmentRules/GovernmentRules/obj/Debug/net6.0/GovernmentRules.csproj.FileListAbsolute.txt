@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\bin\Debug\net6.0\GovernmentRules.exe
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\bin\Debug\net6.0\GovernmentRules.deps.json
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\bin\Debug\net6.0\GovernmentRules.runtimeconfig.json
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\bin\Debug\net6.0\GovernmentRules.dll
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\bin\Debug\net6.0\GovernmentRules.pdb
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.dll
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\refint\GovernmentRules.dll
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.pdb
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\GovernmentRules.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GovernmentRules\GovernmentRules\obj\Debug\net6.0\ref\GovernmentRules.dll
